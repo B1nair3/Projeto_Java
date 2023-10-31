@@ -1,4 +1,4 @@
-package com.example.demoApi2.model;
+package com.example.Projeto_Java.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

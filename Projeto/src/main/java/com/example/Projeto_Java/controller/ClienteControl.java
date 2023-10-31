@@ -1,7 +1,7 @@
-package com.example.demoApi2.controller;
+package com.example.Projeto_Java.controller;
 
-import com.example.demoApi2.model.Cliente;
-import com.example.demoApi2.repository.ClienteRepository;
+import com.example.Projeto_Java.model.Cliente;
+import com.example.Projeto_Java.repository.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
